@@ -34,7 +34,8 @@ h1 {
 
 
 a {
-  color: #87ab69;
+  /* color: #87ab69; */
+  color: #8862b9;
   font-weight:400;
   text-decoration:none;
 }
